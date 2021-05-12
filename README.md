@@ -1,6 +1,3 @@
-
-[![Discord](./Images/wearemovingimage.png)](https://discord.gg/polus)
-
 ![Everyone](./Images/Everything.png)
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
@@ -51,6 +48,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
+| 2021.5.10s | v2.0.5 | [Download] Soon
 | 2021.5.10s | v2.0.4 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.4/TownOfUs-v2.0.4.zip) |
 | 2021.5.10s | v2.0.3 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.3/TownOfUs-v2.0.3.zip) |
 | 2021.4.12s & 2021.4.14s | v2.0.2 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.2/TownOfUs-v2.0.2.zip) |
@@ -66,6 +64,10 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 <details>
   <summary> Changelog </summary>
+ <details>
+  <summary> v2.0.5 </summary>
+  <ul> <li> 20+ New hats </li> </ul>
+ </details>
  <details>
   <summary> v2.0.4 </summary>
   <ul> <li> Crucial bug fixes </li> </ul>
